@@ -1,7 +1,9 @@
 # SDS110 Test Repository
 
 Purpose: test repository created as practice for the course SDS110 
+
 Date: 2026-10-09
+
 Created by: `bamath`
 
 ## Markdown syntax
